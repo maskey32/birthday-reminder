@@ -1,0 +1,21 @@
+.person {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+img {
+  width: 80px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+
+h4 {
+  color: #1b1b3a;
+}
+
+p {
+  color: #69658e;
+}
